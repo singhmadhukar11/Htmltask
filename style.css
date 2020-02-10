@@ -1,0 +1,389 @@
+body{
+    color: #FFF!important;
+    font-family: Inter !important;
+}
+.padding-5-pr{
+    padding: 5%;
+}
+.navbar{
+	border-radius: 0px!important;
+}
+.btn_text {
+    text-align: center;
+}
+.btn_text a {
+    /* border: 1px solid #fff; */
+    /* width: 200px; */
+    /* padding: 5px 58px; */
+    color: #fff;
+    text-decoration: none;
+}
+.card_des {
+    display: inline-block;
+    width: 30%;
+    /* background: grey; */
+    margin-left:20px;
+    border-radius: 5px;
+    background-color: #272727;
+}
+
+.card_des .card-body{
+	padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 31px;
+    padding-bottom: 15px;
+}
+.passage_p{
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 3%;
+    font-family: Inter;
+    font-size: 42px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.card_small {
+    display: inline-block;
+    /* width: 18%; */
+    /* background: grey; */
+    margin-left:20px;
+    padding: 20px;
+    width: 180px;
+    height: 190px;
+    border-radius: 5px;
+    background-color: #4a90e2;
+    
+}
+
+.card_small h4{
+    font-family: Inter;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card_small img{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.card_small .img{
+    text-align: center;
+}
+
+.Rectangle-yell {
+    height: 410px;
+    border-radius: 5px;
+    background-color: #ffcf96;
+  }
+
+  .passage_d{
+    text-align: center;
+    font-family: Inter;
+  font-size: 42px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  color: #ffffff;
+  }
+
+  .passage_d2{
+    text-align: center;
+    font-family: Inter;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  }
+  .navbar-inverse {
+    border: 0px !important;
+    background-color: #1c1c1c !important;
+}
+.signinbtn{
+    background: #ffff;
+    color: #000;
+    padding: 10px 35px !important;
+    font-weight: 600 !important;
+}
+.nav-style{
+    margin-bottom: 0px !important;
+    padding-top: 10px;
+}
+.wiki{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #f5a623;
+    margin: 0px;
+    padding-top: 4%;
+}
+.unique{
+    font-family: Inter;
+    font-size: 42px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin: 12px;
+}
+.enhance{
+    font-family: Inter-regular;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    width: 721px;
+    display: inline-block;
+}
+.btn1{
+    border-radius: 5px;
+    border: solid 1px #4a4a4a;
+    background-color: #1c1c1c;
+    padding: 10px 95px;
+    margin-right: 15px;
+}
+
+.btn2{
+    border-radius: 5px;
+    background-color: #0183c7;
+    padding: 10px 80px;
+}
+
+.btn1:focus, .btn1:hover{
+   color: #0183c7;
+    text-decoration: none;
+}
+
+.btn2:focus, .btn2:hover{
+    text-decoration: none;
+    background-color: #fff;
+    color: #0183c7;
+}
+.generated{
+    font-family: Inter-regular;
+    font-size: 34px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+.quickly{
+    font-family: Inter-regular;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    color: #ffffff;
+    height: 180px;
+}
+.h4-title{
+    font-family: Inter;
+    font-size: 17px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+.speed{
+    font-family: Inter;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: center;
+    color: #d8d8d8;
+    font-weight: normal;
+    margin-bottom:0px;
+}
+.Built{
+    font-family: Inter;
+    font-size: 42px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: center;
+    color: #d8d8d8;
+    margin-bottom:0px;
+}
+.linear{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+.card_plain {
+    display: inline-block;
+    width: 28%;
+    /* margin-left: 20px; */
+    border-radius: 5px;
+    background-color: #272727;
+}
+.card_plain .card-body {
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 31px;
+    padding-bottom: 15px;
+}
+.card_plain .card-text {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #d4d4d4;
+}
+
+.card_plain h4{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+.trail-btn{
+    border-radius: 5px;
+    background-color: #f42e44;
+    color: #fff;
+    padding: 10px 35px;
+}
+.trail-btn:hover{
+    color: #fff;
+    padding: 10px 35px;
+    text-decoration: none;
+}
+.get-wiki{
+    font-family: Inter;
+    font-size: 42px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #000000;
+}
+.add-gen{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    color: #000000;
+    padding-top: 0px;
+    padding-right: 0px;
+}
+
+.card_simple {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 20% 15% 20px 30px;
+    width: 530px;
+    height: 460px;
+    border-radius: 5px;
+    background-image: url(./img/api-card.png);
+    background-color: #272727;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card_simple2{
+    background-image: url(./img/partner-card.png) !important;
+}
+.card_simple h4{
+    font-family: Inter;
+  font-size: 32px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.startNow-btn{
+    border-radius: 5px;
+    border: solid 1px #6c6c6c;
+    background-color: #272727;
+    padding: 10px 40px;
+    color: #fff;
+}
+.col-sm-4.footer1 div {
+    padding-bottom: 30px;
+}
+.enterprise{
+    width: 271px;
+    height: 66px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: normal;
+    color: #9b9b9b;
+}
+.footer-line{
+    height: 1px;
+  border: solid 1px #676767;
+}
+.divided-img img{
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 400px) {
+    .divided-img img{
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+    }
+  }
